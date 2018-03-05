@@ -1,0 +1,10 @@
+teste para fazer
+
+tese final
+
+
+fadfasdfasdasd
+
+
+Mostra apenas uma linha do que foi commitado
+git log --pretty=oneline
